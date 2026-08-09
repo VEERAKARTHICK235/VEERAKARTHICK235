@@ -65,10 +65,11 @@ Building intelligent AI applications using Large Language Models (LLMs), Agentic
 
 ### 🚀 Featured Projects
 
+- 🤖 **OfflineGPT** — Local LLM-Based Code Assistant
+- 🍽️ **Smart Canteen App** - Smart Canteen & Stationery Management System
 - 🤖 **Autonomous LeetCode AI Agent** — Browser-Native Multi-Agent Code Generation System
+- 🌱 **AI Agro Assistant** - Empowering Indian Farmers with AI
 - 🏛️ **Code Archeologist** — Agentic Legacy Modernization System  
-- 🤖 **Offline Code Agent** — Local LLM-Based Code Assistant   
-- 🧠 **NeuroSense AI** — Emotion & Productivity Analytics System  
 - 🎬 **AI Storyboard Director** — AI-Powered Film Blueprint Generator  
 
 ---
