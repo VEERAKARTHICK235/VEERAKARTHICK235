@@ -1,6 +1,6 @@
 # 👋 Hi, I'm KARTHICKKUMAR S
 
-### 🚀 AI Engineer | Founder & CEO @ Innovation Hacks | Agentic AI | Generative AI
+### 🚀 AI Engineer | Founder & CEO @ Innovation Hacks | Agentic AI |
 
 Building intelligent AI applications using Large Language Models (LLMs), Agentic AI, Retrieval-Augmented Generation (RAG), and FastAPI while fostering innovation through hackathons, internships, and developer communities.
 
